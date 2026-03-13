@@ -116,7 +116,8 @@
 //   console.log("i=", i)
 //   size++;
 // }
-// console.log("string size", size)
+// console.log("string size", size);
+console.log(size);
 
 
 
