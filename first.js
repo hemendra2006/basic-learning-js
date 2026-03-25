@@ -117,7 +117,90 @@
 //   size++;
 // }
 // console.log("string size", size);
-console.log(size);
+
+// let str = "hemendra singh";
+
+
+// let str1 = "01234567";
+// let str2 = "hemendra singh";
+// // console.log(str1.concat(str2));
+// // console.log(str2.replace("hemendra", "devendra"));
+// console.log(str2.toUpperCase());
+// console.log(str2.toLowerCase());
+// console.log(str2.slice(0,8));
+// console.log(str2.slice(9,15));
+// console.log(str2.split(' '));
+// console.log(str2.split('').reverse().join(''));
+// console.log(str2.includes("singh"));
+// console.log(str2.indexOf("singh"));
+// console.log(str2.charAt(0));
 
 
 
+// ARRAY -----------------
+
+
+// let arr = [1,2,3,4,5];
+// console.log(arr.length);
+// console.log(arr[0]);
+// console.log(arr[arr.length-1]);
+
+// let name = ["hemendra", "Eesha", "devendra", "rajkumari"];
+// console.log(name.length);
+// console.log(name[0]);
+// console.log(name[name.length-1]);
+// console.log(name.join(","));
+// console.log(name.slice(0,2));
+// console.log(name.slice(2,4));
+// console.log(name.splice(2,1,"devendra"));
+// console.log(name);
+
+
+// ARRY METHODS-----------------
+
+
+// let name = ["hemendra", "Eesha", "devendra",];
+// console.log(name.push("rajkumari"));
+
+
+
+// Function-----------------
+
+
+
+
+// function name(){
+//     console.log("hemendra singh");
+// }
+// name();
+
+// function sum(a,b,c){
+//     return (a+b)/c;
+// }
+// console.log(sum(10,20,2));
+
+
+
+// const sum = (a,b,c) => {
+//     return (a+b)/c;
+// }
+// console.log(sum(10,20,2));
+
+
+// function vowelCount(str){
+//     let count = 0;
+//     for(const char of str){
+//         if(char === 'a' || char === 'e' || char === 'i' || char === 'o' || char === 'u'){
+//             count++;
+//         }
+//     }
+//     console.log(count);
+// }
+
+
+
+// let num = [2,3,4,5,6];
+    
+// num.forEach(num => {
+//     console.log((num*num))
+// });
